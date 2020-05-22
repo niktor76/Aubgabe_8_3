@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Aubgabe_8_3.dir/main.cpp.o  -o Aubgabe_8_3 
